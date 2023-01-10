@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial
 it includes github setup
 
 adding for the new branch
+
+fuck git it is exausting
