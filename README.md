@@ -8,4 +8,5 @@ it includes github setup
 
 adding for the new branch
 
-fuck git it is exausting
+modif files 
+
